@@ -1,4 +1,4 @@
-![Tela Inicial](README.png)
+![Tela Inicial](https://github.com/silvanaamaral/atividade05/blob/master/README.PNG)
 
 # Semana 5
 
